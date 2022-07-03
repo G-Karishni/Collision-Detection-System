@@ -32,12 +32,18 @@ This case represents the normal proper functioning of the vehicle. Therefore, we
 
 ### Case 2: Impact occurred and no flip </br>
 This case represents the scenario when a collision happens but the automobile is not flipped. Once this happens we use GPS to find the current location, GSM to send message to emergency services. </br>
+
 ![image](https://user-images.githubusercontent.com/68386099/177051776-e8907d97-9276-4d89-aa73-be1bed253692.png)
 
 ### Case 3: No impact and flip occurred </br>
 This case represents the situation when a collision does not happen but the vehicle is flipped. Once this happens we use GPS to find the current location, GSM to send message to emergency services. </br>
+
 ![image](https://user-images.githubusercontent.com/68386099/177051789-42ff2b07-89fb-425f-8727-960778e5e59d.png)
 
 ### Case 4: Impact and flip occurred </br>
 This case represents the situation when a collision happens and the vehicle is flipped. Once this occurs we use GPS to find the current location, GSM to send message to emergency services, </br>
+
 ![image](https://user-images.githubusercontent.com/68386099/177051798-cc9dfc3f-8c7f-4cbd-b251-09c65b896315.png)
+
+## Demo video
+https://user-images.githubusercontent.com/68386099/177051508-8e701631-ebf5-4f2c-8c23-1b2efed0c289.mp4
