@@ -14,11 +14,11 @@ The working of impact sensor - used for detecting the collision. Therefore, it c
 ![proteus simulation](https://user-images.githubusercontent.com/68386099/177051619-50027ce7-803e-4143-bc3a-276261aa18eb.jpeg)
 
 ## Flowchart
-![flowchart](https://user-images.githubusercontent.com/68386099/177051494-febe4edd-ff15-4e14-b7d6-1c37163855a3.jpeg)
+![image](https://user-images.githubusercontent.com/68386099/177052049-9fbf9151-7dc1-4a4e-b4ba-02bd02c8b10b.png)
 
 ## Implementation
 
-![car side view](https://user-images.githubusercontent.com/68386099/177051348-d2f0c238-4717-40e3-b0a3-09a249b4842c.jpeg)
+![image](https://user-images.githubusercontent.com/68386099/177052083-c3185a3a-2e7e-4aa0-9614-40968528ec96.png)
 Fig1. Side view of demo car
 
 ![car top view](https://user-images.githubusercontent.com/68386099/177051368-d3913806-1309-4e3a-91a5-6e63b7a83a9b.jpeg)
