@@ -18,10 +18,10 @@ The working of impact sensor - used for detecting the collision. Therefore, it c
 
 ## Implementation
 
-![image](https://user-images.githubusercontent.com/68386099/177052083-c3185a3a-2e7e-4aa0-9614-40968528ec96.png)
+![image](https://user-images.githubusercontent.com/68386099/177052083-c3185a3a-2e7e-4aa0-9614-40968528ec96.png) </br>
 Fig1. Side view of demo car
 
-![image](https://user-images.githubusercontent.com/68386099/177052143-2fa68c8d-2d9c-41cd-8e86-a3f1540f5ac2.png)
+![image](https://user-images.githubusercontent.com/68386099/177052143-2fa68c8d-2d9c-41cd-8e86-a3f1540f5ac2.png) </br>
 Fig2. Top view of demo car
 
 ## Collision Scenarios
@@ -45,5 +45,3 @@ This case represents the situation when a collision happens and the vehicle is f
 
 ![image](https://user-images.githubusercontent.com/68386099/177051798-cc9dfc3f-8c7f-4cbd-b251-09c65b896315.png)
 
-## Demo video
-https://user-images.githubusercontent.com/68386099/177051508-8e701631-ebf5-4f2c-8c23-1b2efed0c289.mp4
