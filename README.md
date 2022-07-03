@@ -11,17 +11,17 @@ In this project we see collision detection in vehicles. In order to detect those
 
 The working of impact sensor - used for detecting the collision. Therefore, it can also be called a collision signal sensor. In proteus software, we use TouchPad tool for impact sensor equivalent behavior for an input which we considered it as collision if tapped. Once the collision or flip happen we also used a buzzer to alert the passengers that an emergency message is sent. The ADXL335 use three linear potentiometers as a variable voltage source for each axis, as the acceleration in ADXL335 is directly proportional to the output voltage of each axis. Since ADXL sensor is not available in proteus (simulation tool) we  used three potentiometers in parallel as an equivalent model. We used GSM1 to send the message we coded it accordingly and Arduino is coded to receive readings from sensors,to find current location and to send those details to GSM code so that the message contains details /readings from the sensors.
 
-![proteus simulation](https://user-images.githubusercontent.com/68386099/177051619-50027ce7-803e-4143-bc3a-276261aa18eb.jpeg)
+![image](https://user-images.githubusercontent.com/68386099/177052180-c71f3243-ead7-4ce5-9860-06a04fa3f8b7.png)
 
 ## Flowchart
-![image](https://user-images.githubusercontent.com/68386099/177052049-9fbf9151-7dc1-4a4e-b4ba-02bd02c8b10b.png)
+![image](https://user-images.githubusercontent.com/68386099/177052203-758e6a48-8534-440e-acab-ee13fcdc2990.png)
 
 ## Implementation
 
 ![image](https://user-images.githubusercontent.com/68386099/177052083-c3185a3a-2e7e-4aa0-9614-40968528ec96.png)
 Fig1. Side view of demo car
 
-![car top view](https://user-images.githubusercontent.com/68386099/177051368-d3913806-1309-4e3a-91a5-6e63b7a83a9b.jpeg)
+![image](https://user-images.githubusercontent.com/68386099/177052143-2fa68c8d-2d9c-41cd-8e86-a3f1540f5ac2.png)
 Fig2. Top view of demo car
 
 ## Collision Scenarios
